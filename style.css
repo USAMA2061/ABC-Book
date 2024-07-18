@@ -6,7 +6,12 @@ body{
 }
 .yoyo :hover{
     text-decoration:underline;
-    
+    padding: 40x;
+    margin: 20px;
+    box-shadow: 0 5px 10px black;
+}
+.yoyo :hover{
+    background-color: yellowgreen;
 }
 
 .title{
